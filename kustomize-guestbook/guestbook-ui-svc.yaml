@@ -9,3 +9,5 @@ spec:
   selector:	
     app: guestbook-ui
   type: LoadBalancer
+  externalIPs:
+  - 192.168.64.2
