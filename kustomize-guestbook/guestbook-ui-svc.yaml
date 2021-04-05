@@ -11,4 +11,4 @@ spec:
     app: guestbook-ui
   type: LoadBalancer
   externalIPs:
-  - 127.0.0.1
+  - 127.0.0.5
